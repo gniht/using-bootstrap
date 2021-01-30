@@ -1,0 +1,14 @@
+header {
+  background-color: red;
+  color: white;
+}
+
+.right {
+  text-align: right;
+}
+
+.ctr {
+  justify-content: center;
+  align-self: center;
+  align-items: center;  
+}
